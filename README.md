@@ -1,2 +1,2 @@
 # chatapplication
-An Android application
+An Android chat application using kotlin and firebase database
